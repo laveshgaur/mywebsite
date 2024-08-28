@@ -1,0 +1,23 @@
+#profile{
+    float: right;
+    margin: 15px;
+    border-radius: 40px;
+    border:solid;
+}
+body{
+    margin:20px;
+    display: flow-root;
+}
+h1{
+    font-family: Verdana;
+    /* border-style:solid; */
+    text-shadow: 3px 3px 5px red,-3px -3px 5px rgb(215, 160, 58);
+}
+p{
+    font-family:italic,arial ;
+    /* border-bottom: 3px solid orangered; */
+    text-shadow: 3px 3px 6px;
+}
+#connect{
+
+}
